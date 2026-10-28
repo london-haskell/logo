@@ -21,9 +21,13 @@ description:         Please see the README on GitHub at <https://github.com/gith
 
 dependencies:
 - base >= 4.7 && < 5
+- colour
+- containers
+- linear
 - diagrams-core
 - diagrams-lib
 - diagrams-svg
+- waterfall-cad >= 0.8
 
 ghc-options:
 - -Wall
